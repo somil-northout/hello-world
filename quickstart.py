@@ -7,7 +7,7 @@ from json import dumps
 def main():
     url = 'https://chat.googleapis.com/v1/spaces/AAAAV3sXpwU/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=BxzvzKx5_yU6Zb4DufFRZDXbH6iVPg7p7BCo-KDy2e0%3D'
     bot_message = {
-        'text' : 'new commit in github'}
+        'text' : 'fsedgvgsdfv edsf sdf szd efsdf new commit in github'}
 
     message_headers = { 'Content-Type': 'application/json; charset=UTF-8'}
 
