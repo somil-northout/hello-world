@@ -16,15 +16,6 @@ def main():
 
 
 
-
-
-
-
-
-
-
-
-
     http_obj = Http()
 
     response = http_obj.request(
