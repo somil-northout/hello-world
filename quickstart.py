@@ -5,7 +5,7 @@ from json import dumps
 # Hangouts Chat incoming webhook quickstart
 #
 def main():
-    url = 'https://chat.googleapis.com/v1/spaces/AAAAV3sXpwU/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=BxzvzKx5_yU6Zb4DufFRZDXbH6iVPg7p7BCo-KDy2e0%3D'
+    url = 'https://chat.googleapis.com/v1/spaces/AAAAQZCR_rU/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VqS7uSAWxw1CDtPyZ7cLJknYSnD7gHothmxVpNjPBys%3D'
     bot_message = {
         'text' : 'push on master branch'}
     message_headers = { 'Content-Type': 'application/json; charset=UTF-8'}
